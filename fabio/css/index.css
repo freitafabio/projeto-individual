@@ -1,0 +1,35 @@
+*{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+
+section{
+    margin-top: 100px;
+}
+.foto{
+    margin-top: 20px;
+    margin-left: 650px;
+    border-radius: 500px;    
+}
+
+.navbar{
+    text-align: center;
+}
+
+.navbar li{
+    display: inline;
+    margin: 10px;
+    text-align: center;
+    
+}
+.navbar li a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+}
+
+#ctt, #interesse , #hobbie{
+    background-color:aqua;
+}
